@@ -11,7 +11,6 @@ El código está modularizado, facilitando su mantenimiento y escalabilidad. Ade
 📌 **Estructura:** Código modular dividido en archivos independientes.  
 
 ![Python Version](https://img.shields.io/badge/Python-3.10-blue)
-![GitHub](https://img.shields.io/github/license/Bl4nc018/greedy-search)
 
 ---
 
